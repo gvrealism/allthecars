@@ -12,7 +12,7 @@ The developers provide no official or complete list of cars, making it difficult
 npm install --save https://github.com/gvrealism/allthecars
 ```
 
-This will allow you to import or/and require the package.
+This will allow you to import or/and require the package. If you're not using Node.js, you can fetch the list from the [file](https://raw.githubusercontent.com/gvrealism/allthecars/v2/index.js).
 
 ## Usage
 
