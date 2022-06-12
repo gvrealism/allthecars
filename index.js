@@ -81,7 +81,7 @@ module.exports = [
   '2002 Chevlon Antelope',
   '2002 Chevlon Corbeta',
   '2002 Chryslus Puma',
-  '2002 Falcon wanderer',
+  '2002 Falcon Wanderer',
   '2003 Arrow Starburst',
   '2003 Arrow TRYBE',
   '2003 Brawnson Boxy',
