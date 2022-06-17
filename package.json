@@ -1,6 +1,6 @@
 {
   "name": "allthecars",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A complete list of all cars and other vehicles in Greenville.",
   "main": "index.js",
   "license": "ISC",
