@@ -4,7 +4,5 @@
   "description": "A complete list of all cars and other vehicles in Greenville.",
   "main": "index.js",
   "license": "ISC",
-  "devDependencies": {
-    "standard": "^17.0.0"
-  }
+  "devDependencies": { "standard": "^17.0.0" }
 }
