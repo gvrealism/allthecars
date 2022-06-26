@@ -693,7 +693,7 @@ module.exports = [
   '2021 Sentinel Adventurer',
   '2021 Sentinel Adverturer Limo',
   '2021 Sentinel Sailor',
-  '2021 Silhouete Rinoceronte',
+  '2021 Silhouette Rinoceronte',
   '2021 Silhouette Tifon',
   '2021 SirRodgers Spirit LWB',
   '2021 SirRodgers Spirit SWB',
