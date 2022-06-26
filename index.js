@@ -1,4 +1,7 @@
 module.exports = [
+  'Celestruck',
+  'si silhouetti',
+  'swagwagon',
   '1957 Chevlon Jolie-Mode',
   '1959 Leland Diamante Biarritz Convertible',
   '1964 Chryslus Jetstream',
