@@ -550,6 +550,7 @@ module.exports = [
   '2021 Origin Busan',
   '2021 Overland Buckaroo',
   '2021 Overland Combatant',
+  '2021 Overland Combatant Ghoul 6x6',
   '2021 Piranha F-Stride',
   '2021 Romalpha Julie Quadluck',
   '2021 Sentinel Adventurer Limo',
