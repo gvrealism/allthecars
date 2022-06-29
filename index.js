@@ -154,7 +154,7 @@ module.exports = [
   '2006 Maverick Valiant',
   '2006 Oland Boxas X',
   '2006 Overland Buckaroo',
-  '2006 silhouette Gioiosa',
+  '2006 Silhouette Gioiosa',
   '2006 Sumo Ota Sedan',
   '2006 Sumo Ota Wagon',
   '2006 Sumo Rockies',
