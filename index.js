@@ -84,7 +84,7 @@ module.exports = [
   '2001 Overland Navajo',
   '2001 Sentiel Eurus',
   '2001 Sumo WoodLands',
-  '2002 BKM Gottfriending',
+  '2002 BKM Gottfrieding',
   '2002 Chevlon Amigo',
   '2002 Chevlon Antelope',
   '2002 Chevlon Corbeta',
