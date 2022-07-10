@@ -610,7 +610,7 @@ module.exports = [
   '2022 BKM Munich M',
   '2022 BKM Rosenheim',
   '2022 BKM Spartanburg',
-  '2022 Celectial Type-7',
+  '2022 Celestial Type-7',
   '2022 Celestial Type-5',
   '2022 Century Meridian',
   '2022 Century Moonlight',
@@ -682,5 +682,8 @@ module.exports = [
   '2023 The Terrain Traveller SWB',
   'Celestruck',
   'si silhouetti',
-  'swagwagon'
+  'swagwagon',
+  '2019 Western Sergal Classic',
+  '2019 Western Kaiju',
+  '2019 Stuttgart Landschaft'
 ]
