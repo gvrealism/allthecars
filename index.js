@@ -725,5 +725,6 @@ module.exports = [
   '2022 Wolfsburg Discovery',
   '2023 BKM Regen M Touring',
   '2023 Elysion Ride',
-  '2023 Vellfire Prairie'
+  '2023 Vellfire Prairie',
+  '1997 Jupiter B.C.'
 ]
