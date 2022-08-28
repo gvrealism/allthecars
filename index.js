@@ -186,6 +186,7 @@ module.exports = [
   '2007 Vellfire Charm',
   '2007 Wolfsburg Bunny/Pitch',
   '2007 Wolfsburg Charge',
+  '2007 Wolfsburg Pitch',
   '2007 Wolfsburg Pitch W12',
   '2008 BKM Hofmeister',
   '2008 BullHorn Grand Convoy',
