@@ -31,7 +31,7 @@ module.exports = [
   '1989 Navara Horizon',
   '1990 Brawnson Boxy',
   '1990 Century Excelsior',
-  '1990 Mazuku Laguana',
+  '1990 Mazuku Laguna',
   '1991 Overland Iroquois',
   '1992 Chevlon 454 SuperSport',
   '1992 Chevlon L/M SUV',
