@@ -750,7 +750,7 @@ module.exports = [
   '2023 Vellfire Prairie',
   '2023 Vellfire Reina GR Hatch',
   '2023 Vellfire Robust',
-  '2023 Western Kobold'
+  '2023 Western Kobold',
   'Celestruck',
   'swagwagon'
 ]
