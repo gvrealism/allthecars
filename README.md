@@ -6,6 +6,8 @@ A complete list of all cars and other vehicles in [Greenville](https://www.roblo
 
 The developers provide no official or complete list of cars, making it difficult to implement it programmatically. Example use cases include registration systems and generating statistics.
 
+This works well with [allthestates](https://github.com/gvrealism/allthestates).
+
 ## Installation
 
 ```bash
