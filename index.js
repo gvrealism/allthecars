@@ -1,6 +1,6 @@
 module.exports = [
   '1957 Chevlon Jolie-Mode',
-  '1958 Mayflower Rage'
+  '1958 Mayflower Rage',
   '1959 Leland Diamante Biarritz Convertible',
   '1964 Chryslus Jetstream',
   '1965 Falcon Stallion',
