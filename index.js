@@ -85,7 +85,6 @@ module.exports = [
   '2000 Takeo Finis',
   '2000 Wolfsburg Pitch',
   '2001 Arrow Trybe',
-  '2001 Chevlon Cameon',
   '2001 Chevlon Camion',
   '2001 Chevlon Camion Ext',
   '2001 Chevlon Camion HD',
