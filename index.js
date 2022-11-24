@@ -251,6 +251,7 @@ module.exports = [
   '2010 Revver Sport',
   '2010 Vellfire Prima',
   '2011 BKM Regen Coupe',
+  '2011 BKM Regen Coupe Beater',
   '2011 BKM Regen M Coupe',
   '2011 Chevlon Current',
   '2011 Navara Star',
