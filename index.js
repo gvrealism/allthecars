@@ -253,6 +253,7 @@ module.exports = [
   '2011 BKM Regen Coupe',
   '2011 BKM Regen Coupe Beater',
   '2011 BKM Regen M Coupe',
+  '2011 BKM Regen M GTS',
   '2011 Chevlon Current',
   '2011 Navara Star',
   '2011 Oland Exekutiv GEN-II',
