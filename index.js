@@ -32,7 +32,7 @@ module.exports = [
   '1988 Avanta Zeta Coupe',
   '1988 Avanta Zeta Sedan',
   '1988 Avanta Zeta Spacewagon',
-  '1988 Teeny',
+  '1988 WeGo Coral',
   '1989 Chevlon Sheridian',
   '1989 Chryslus Empire',
   '1989 Navara Horizon',
