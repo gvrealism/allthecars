@@ -840,7 +840,7 @@ module.exports = [
   '2023 Wolfsburg Poseidon Sportback GT',
   '2023 Wolfsburg Poseidon Sportback',
   '2023 Wolfsburg Poseidon',
-  '2024 Chevlon Corbeta Manta E-Ray'
+  '2024 Chevlon Corbeta Manta E-Ray',
   '2024 Chevlon ePlatoro',
   'Celestruck',
   'swagwagon',
