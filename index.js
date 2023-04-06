@@ -724,7 +724,9 @@ module.exports = [
   '2022 Bitsy Classic E',
   '2022 Bitsy Classic',
   '2022 BullHorn Buffalo 1500',
+  '2022 BullHorn Buffalo HD Lifted',
   '2022 BullHorn Buffalo HD',
+  '2022 BullHorn Buffalo K-Wex',
   '2022 BullHorn Buffalo T-Wex',
   '2022 Celestial Type-5',
   '2022 Celestial Type-7',
@@ -807,6 +809,7 @@ module.exports = [
   '2022 Wolfsburg Discovery',
   '2022 Wolfsburg Pitch',
   '2022 Wolfsburg Tesuque',
+  '2023 Andre Buddy',
   '2023 BKM Regen M Touring',
   '2023 Beam SB7',
   '2023 Celestial FCT',
@@ -855,5 +858,8 @@ module.exports = [
   '2024 Chevlon Corbeta Manta E-Ray',
   '2024 Chevlon ePlatoro',
   'Celestruck',
+  'Fox Mountain Motors Ranger',
+  'Western Hawk Go-Kart',
+  'Western Lil\' Kobold',
   'swagwagon'
 ]
