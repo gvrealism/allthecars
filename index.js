@@ -814,6 +814,7 @@ module.exports = [
   '2023 Beam SB7',
   '2023 Celestial FCT',
   '2023 Celestial Type-1',
+  '2023 Celestial Type-4',
   '2023 Century Nebula F',
   '2023 Century Nebula',
   '2023 Chevlon Corbeta Manta Z06',
