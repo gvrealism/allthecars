@@ -249,7 +249,7 @@ module.exports = [
   '2008 BullHorn Maximus',
   '2008 BullHorn Prancer WSP',
   '2008 BullHorn Prancer',
-  '2008 BullHorn Prancer',
+  '2008 BullHorn Prancer Classic',
   '2008 BullHorn Pueblo',
   '2008 BullHorn Python',
   '2008 Celestial Type-1',
