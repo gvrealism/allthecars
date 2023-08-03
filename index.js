@@ -115,6 +115,7 @@ module.exports = [
   '2001 Chevlon Camion Ext',
   '2001 Chevlon Camion HD',
   '2001 Chevlon Camion WSP',
+  '2001 Chevlon Inferno',
   '2001 Chevlon Platoro 1500',
   '2001 Chevlon Surface',
   '2001 Combi Satisfaction',
