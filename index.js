@@ -514,5 +514,6 @@ module.exports = [
   '2024 NVNAsport Acesera',
   '2024 Silhouette Tifon',
   '2024 Volt Riolu',
-  '2025 DIRECT D3'
+  '2025 DIRECT D3',
+  '1969 Bullhorn Canaveral Champion'
 ]
