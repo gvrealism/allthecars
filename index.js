@@ -517,5 +517,6 @@ module.exports = [
   '2025 DIRECT D3',
   '1969 Bullhorn Canaveral Champion',
   '2017 VSV Admiral',
-  '2017 VSV Admiral GTSR W1'
+  '2017 VSV Admiral GTSR W1',
+  '2019 Stuttgart Landschaft'
 ]
